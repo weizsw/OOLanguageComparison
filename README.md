@@ -1,4 +1,4 @@
 # OOLanguageComparison
 ## Python vs Swift
-## Team member: 
+## Team member: </br>
 ###Shaowei Zhou, Kexin Li, Zhuangwei Kang
